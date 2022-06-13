@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="nuevo 2.css"><title>pagina web</title></head>
+<body>
+
+<header></header>
+<nav></nav>
+<section>
+<center><table border="2">
+<tr>
+<td>APELLIDO Y NOMBRE</td>
+<td>NACIONALIDAD</td>
+<td>POSICION</td>
+<td>PARTIDOS</td>
+<td>GOLES</td>
